@@ -10,7 +10,7 @@ Solidity es un lenguaje de alto nivel orientado a contratos. Su sintaxis es simi
 
 Solidity está tipado de manera estática y acepta, entre otras cosas, herencias, librerías y tipos complejos definidos por el usuario.
 
-Como verá, es posible crear contratos para votar, para el crowdfunding, para subastas a ciegas, para monederos muti firmas, y mucho más.
+Como verá, es posible crear contratos para votar, para el crowdfunding, para subastas a ciegas, para monederos multi firmas, y mucho más.
 
 .. note::
     La mejor manera de probar Solidity ahora mismo es usando `Remix <https://remix.ethereum.org/>`_ (puede tardar un rato en cargarse, por favor sea paciente).
